@@ -1,0 +1,8 @@
+{
+  "name": "package-a",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "package-b": "file:../package-b"
+  }
+}

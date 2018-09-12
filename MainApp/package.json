@@ -1,0 +1,8 @@
+{
+  "name": "mainapp",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "package-a": "file:../packages/libs/package-a"
+  }
+}
